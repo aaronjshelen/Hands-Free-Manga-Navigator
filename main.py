@@ -127,7 +127,7 @@ def display_coordinates(img, x, y):
 #################
 def get_chapter_links():
 
-    url = "https://manchainsaw.com/"
+    url = "https://readchainsaw-man.com/" # UPDATE LINK IF NEEDED
 
     response = requests.get(url)
 
