@@ -55,23 +55,23 @@ The application uses the **MediaPipe Hands** library to accurately detect hand l
 
 - **Close Your Fingers**:  
   The selected chapter will open in your browser.
-  ![Close Hand](imgs\close.png)
+  ![Close Hand](close.png)
 
 ---
 
 #### **Scroll in the Browser**
 
 - **Scroll Down**:  
-  ![Scoll Down](imgs\scroll_down.png)
+  ![Scoll Down](scroll_down.png)
 
 - **Scroll Down Faster**:  
-  ![Scroll Down Faster](imgs\scroll_down_faster.png)
+  ![Scroll Down Faster](scroll_down_faster.png)
 
 - **Scroll Up**:  
-  ![Scroll Up](imgs\scroll_up.png)
+  ![Scroll Up](scroll_up.png)
 
 - **Scroll Up Faster**:  
-  ![Scroll Up Faster](imgs\scroll_up_faster.png)
+  ![Scroll Up Faster](scroll_up_faster.png)
 
 ---
 
@@ -83,14 +83,14 @@ The application uses the **MediaPipe Hands** library to accurately detect hand l
   - Two green `+` signs will appear.
   - Drag your hand past the signs to load the next chapter.
 
-  ![Next Chapter](imgs\next_chapter.png)
+  ![Next Chapter](next_chapter.png)
 
 - **Previous Chapter**:
 
   - Perform the same gesture as above, but towards the left.
   - Two blue `+` signs will appear.
 
-  ![Previous Chapter](imgs\prev_chapter.png)
+  ![Previous Chapter](prev_chapter.png)
 
 ---
 
@@ -101,7 +101,7 @@ The application uses the **MediaPipe Hands** library to accurately detect hand l
   - Hold an upside-down peace sign to close the current chapter and open a **MyWings** tab.
   - _(Note: The Python script does not terminate in this version.)_
 
-  ![College Portal Nav](imgs\peace.png)
+  ![College Portal Nav](peace.png)
 
 ---
 
