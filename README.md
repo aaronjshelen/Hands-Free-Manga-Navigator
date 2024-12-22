@@ -38,7 +38,7 @@ The application uses the **MediaPipe Hands** library to accurately detect hand l
 
 3. **GUI and Live Feed**:  
     A GUI will pop up along with a live webcam feed. Use the following gestures for navigation:
-   ![Navigation Gesture](imgs\nav.png)
+   ![Navigation Gesture](nav.png)
 
 ---
 
