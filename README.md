@@ -1,8 +1,8 @@
-# Hands-Free Manga Navigator
+# Touchless Manga Navigator
 
 ## Description
 
-The **Hands-Free Manga Navigator** is a Python-based application that allows users to navigate through manga chapters using a webcam. The application employs computer vision techniques for hand detection, gesture recognition, and web browsing control, providing a hands-free manga reading experience.
+The **Touchless Manga Navigator** is a Python-based application that allows users to navigate through manga chapters using a webcam. The application employs computer vision techniques for hand detection, gesture recognition, and web browsing control, providing a Touch-free manga reading experience.
 
 The application uses the **MediaPipe Hands** library to accurately detect hand landmarks (locations of joints and fingertips). By leveraging these landmarks, the program determines the hand's orientation (up, down, left, or right) and tracks which fingers are held up. Using this information, it recognizes specific gestures and maps them to commands, allowing seamless manga navigation.
 
